@@ -79,6 +79,6 @@ After ensuring the above, within the **amity folder** run :
 
 ## Credits
 
-1. [Humphrey Musonye](https://github.com/andela-kndegwa)
+1. [Humphrey Musonye](https://github.com/andela-hms)
 
 2. The [Andela](https://www.andela.com) community.
