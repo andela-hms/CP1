@@ -59,9 +59,9 @@ load_state |(sqlite_database)|load_state amity
 4. cd into the **app** folder and run `python run-app.py --interactive`
 
 #4. Usage
-The following screencast shows how to run the different commands. Check it out:
+The following screencast shows how to run the app. Check it out:
 
-[![asciicast](https://asciinema.org/a/ecendttdj3a4lrp89n8luus30.png)](https://asciinema.org/a/90nbku8jisl9u3fk1jocj08yx)
+[![asciicast](https://asciinema.org/a/90nbku8jisl9u3fk1jocj08yx.png)](https://asciinema.org/a/90nbku8jisl9u3fk1jocj08yx)
 
 #5. Tests
 
