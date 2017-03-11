@@ -1,0 +1,25 @@
+
+.vscode/
+app/.vscode/
+
+app/__pycache__/
+__pycache__/
+app/rooms/__pycache__/
+app/people/__pycache__/
+app/db/__pycache__/
+
+app/.bash_profile
+app/.bash_profile.save
+
+# Coverage files
+app/.coverage
+app/.coveragerc
+app/.coverage.*
+app/rooms/.coverage
+app/rooms/.coveragerc
+app/people/.coverage
+app/people/.coveragerc
+.coverage
+
+app/*.pyc
+.DS_Store
